@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I’m Neha Baskar
 
-<!--
-**NehaBaskar/NehaBaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend Engineer | Java & Spring Boot Developer**  
+📍 San Jose, CA 
+🌱 Learning Cloud (AWS) & DevOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+
+**Languages:** Java, Python, Shell  
+**Frameworks:** Spring Boot, REST APIs  
+**Tools:** Docker, Git, CI/CD  
+**Cloud:** AWS basics (EC2, S3, IAM)  
+**Databases:** MySQL
+
+---
+
+## 💡 Featured Projects
+
+### 🔹 SpringBootApp
+- Backend REST API built with Spring Boot  
+- CRUD + MySQL + Unit tests  
+- Showcases layered architecture
+
+### 🔹 WebCustomerTracker
+- Full stack customer tracking app  
+- Java backend + simple frontend
+
+### 🔹 devops-bash / devops-python-ec2
+- DevOps scripts & automation examples using AWS, Docker
+
+> Check out my repos for full details and code!
+
+---
+
+## 📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/nehabaskar
