@@ -18,6 +18,12 @@
 
 ## 💡 Featured Projects
 
+### 🔹 AI-Product Recommendation
+- Spring Boot REST API that generates personalized product recommendations using OpenAI’s GPT
+
+### 🔹 Order async project
+- simple Spring Boot project demonstrating asynchronous processing using @Async and a custom thread pool
+
 ### 🔹 SpringBootApp
 - Backend REST API built with Spring Boot  
 - CRUD + MySQL + Unit tests  
