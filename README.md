@@ -18,6 +18,8 @@
 
 ## 💡 Featured Projects
 
+### 🔹 Currently learning and working on to build Support chat bot
+
 ### 🔹 AI-Product Recommendation
 - Spring Boot REST API that generates personalized product recommendations using OpenAI’s GPT
 
